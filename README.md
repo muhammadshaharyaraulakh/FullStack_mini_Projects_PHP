@@ -4,10 +4,10 @@ A collection of mini full-stack projects built using PHP, MySQL, HTML, CSS, and 
 
 ## Tech Stack
 
-- **Frontend:** HTML5, CSS3, JavaScript (Vanilla), Bootstrap (optional)
+- **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
 - **Backend:** PHP (Core PHP)
 - **Database:** MySQL
-- **Tools:** XAMPP/MAMP, phpMyAdmin, VS Code, Git & GitHub
+- **Tools:** Operating System (Linux) ,VS Code, Php MySQl
 
 ## Projects Included
 
