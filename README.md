@@ -10,15 +10,15 @@ A collection of mini full-stack projects built using PHP, MySQL, HTML, CSS, and 
 - **Tools:** Operating System (Linux) ,VS Code, Php MySQl
 
 ## Projects Included
-
-- To-Do List App  
+ 
 - Login & Registration System  
 - Contact Form with Email Integration  
 - Mini Shopping Cart  
-- Student Record CRUD System  
-- Event Calendar  
+- Student Record CRUD System   
 - Blog Post CMS  
-- Feedback or Survey Form  
-- File Upload Manager  
+- Feedback or Survey Form   
 - Simple Search Functionality
+- Image Gallery
+- Contact Manager
+- Receipe Webiste
 
