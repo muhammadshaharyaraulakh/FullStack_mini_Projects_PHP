@@ -39,7 +39,7 @@
      </div>
  </footer>
 
- <script src="/assests/js/script.js"></script>
+ <script src="/assests/js/main.js"></script>
  </body>
 
  </html>

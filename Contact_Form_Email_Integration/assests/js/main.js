@@ -119,7 +119,9 @@ document.addEventListener('DOMContentLoaded', () => {
             confirmIcon.classList.toggle('fa-eye-slash', !isHidden);
         });
     }
-
+    // ====================================
+    // 8. FAQ Section
+    // ====================================
     const faqItems = document.querySelectorAll('.faq-item');
     faqItems.forEach(item => {
         const question = item.querySelector('.faq-question');
@@ -135,22 +137,12 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // ====================================
-    // 8. Trigger Scroll Fade-In on Form
+    // 9. Trigger Scroll Fade-In on Form
     // ====================================
     const loginCard = document.getElementById('loginFormCard');
     if (loginCard) {
         loginCard.classList.add('visible');
     }
 });
-    // ====================================
-    // 9. FAQ Section
-    // ====================================
-document.addEventListener('DOMContentLoaded', function () {
-    const faqQuestions = document.querySelectorAll('.faq-question');
-    faqQuestions.forEach(question => {
-        question.addEventListener('click', () => {
-            const item = question.closest('.faq-item');
-            item.classList.toggle('active');
-        });
-    });
-});
+
+
