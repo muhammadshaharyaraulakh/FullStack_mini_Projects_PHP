@@ -1,5 +1,4 @@
 <?php
-// Start a new or resume an existing session
 session_start();
 
 // Include configuration and navigation bar files
