@@ -1,4 +1,5 @@
 <?php
+//  Including Header File
 require __DIR__ . "/includes/header.php";
 
 ?>
